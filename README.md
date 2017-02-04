@@ -1,1 +1,1 @@
-# hipchat-golang-bot
+# HipChat-JIRA-Bot
